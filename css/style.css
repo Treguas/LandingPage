@@ -65,7 +65,7 @@ select {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
-  background-image:url();
+  background-image:url(/images/arrow.jpg);
   background-repeat: no-repeat;
   background-position-x: calc(100% - 10px);
   background-position-y: center;
