@@ -29,7 +29,7 @@ header {
 section {
   color: snow;
   padding: 20px;
-  background-image: url(https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+  background-image: url(/images/people.jpg);
   background-size: cover;
   overflow: hidden;
 }
@@ -72,14 +72,13 @@ select {
 }
 
 footer {
-  
-  height: 100vh;
   background-color: #202121;
   padding: 40px;
   text-align: center;
 }
 
 footer img {
+  border-radius: 15px 15px 15px 15px;
   margin-left: 24px;
   width: 224px;  
 }
@@ -96,5 +95,4 @@ footer img {
   font-weight: 300;
   color: snow;
   margin-bottom: 20px;
-
 }
